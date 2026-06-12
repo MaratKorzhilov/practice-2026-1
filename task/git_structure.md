@@ -18,7 +18,14 @@
 │   ├── css/
 │   │   └── style.css
 │   ├── images/
-│   │   └──
+│   │   ├── about-banner.jpg
+│   │   ├── audience.jpg
+│   │   ├── banner.png
+│   │   ├── first.png
+│   │   ├── fourth.png
+│   │   ├── second.png
+│   │   ├── swot.jpg
+│   │   └── third.png
 │   ├── about.html
 │   ├── index.htm
 │   ├── journal.html
