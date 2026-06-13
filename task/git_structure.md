@@ -11,8 +11,10 @@
 ├── reports/
 │   ├── README.md
 │   ├── practice_report_template.docx
-│   ├── report.pdf
-│   └── report.docx
+│   ├── report_Korzhilov.docx
+│   ├── report_Korzhilov.pdf
+│   ├── report_Kuznetsov.docx
+│   └── report_Kuznetsov.pdf
 ├── site/
 │   ├── css/
 │   │   └── style.css
@@ -46,10 +48,12 @@
 
 2. **reports/**
    Папка для хранения бинарных файлов отчётов:
-   - **README.md** — 
-   - **report.pdf** — итоговый отчёт в формате PDF.
-   - **report.docx** — итоговый отчёт в формате docx.
+   - **README.md** — файл с заданием.
    - **practice_report_template.docx** — шаблон отчёта, который участники могут использовать для подготовки итоговых документов.
+   - **report_Korzhilov.docx** — итоговый отчёт Коржилова в формате docx.
+   - **report_Korzhilov.pdf** — итоговый отчёт Коржилова в формате pdf.
+   - **report_Kuznetsov.docx** — итоговый отчёт Коржилова в формате docx.
+   - **report_Kuznetsov.pdf** — итоговый отчёт Коржилова в формате pdf.
 
 4. **site/**
    Папка для статического сайта со всеми его ресурсами:
